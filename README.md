@@ -2,10 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/faisalnazik/Django-React-Redux-Boilerplate/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/faisalnazik/Django-React-Redux-Boilerplate/tree/main)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1dc1d840640dad52e38f/maintainability)](https://codeclimate.com/github/faisalnazik/Django-REST-Framework-React-BoilerPlate/maintainability)
-
-![](image/README/1650208713974.png)![1671452013971](image/README/1671452013971.png)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/jsStar580/Django-React-Redux-Boilerplate/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/jsStar580/Django-React-Redux-Boilerplate/tree/main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1dc1d840640dad52e38f/maintainability)](https://codeclimate.com/github/jsStar580/Django-REST-Framework-React-BoilerPlate/maintainability)
 
 ## Frontend ⭐
 
@@ -18,8 +16,6 @@
 - Server Errors Handling✔
 
 ## Backend🛠
-
-![](image/README/1650278750325.png)![1671452027931](image/README/1671452027931.png)
 
 - Django REST framework for a powerful API ✔
 - Django ORM for interacting with the database✔
@@ -39,19 +35,19 @@
 
 - Install requirements after creating and activating virtual environement
 
-    $ pip install -r requirements/local.txt
+  $ pip install -r requirements/local.txt
 
 - Currently SQLite is configured, you can change it with any other as well. Then run
 
-    $ python manage.py makemigrations
-        $ python3 manage.py migrate
+  $ python manage.py makemigrations
+  $ python3 manage.py migrate
 
-    To run tests:
-        $ pytest
+  To run tests:
+  $ pytest
 
-    API Documentation will be available at http://localhost:8000/api/v1/schema/redoc/
+  API Documentation will be available at http://localhost:8000/api/v1/schema/redoc/
 
-    Admin available at`http://localhost:8000/admin/`
+  Admin available at`http://localhost:8000/admin/`
 
 ### Frontend
 
@@ -67,7 +63,7 @@
 
     -  React app available at`http://localhost:3000/`
 
-👉 [Github Pages](https://faisalnazik.github.io/Django-REST-Framework-React-BoilerPlate/)
+👉 [Github Pages](https://jsStar580.github.io/Django-REST-Framework-React-BoilerPlate/)
 
 ## ⭐️ Support
 

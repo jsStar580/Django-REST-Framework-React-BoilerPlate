@@ -77,7 +77,7 @@ export default function MainHeader() {
           }}
         >
           <Typography component="span" variant="h3" sx={{ color: 'primary.main' }}>
-            &nbsp;FaisalNazik
+            &nbsp;jsStar580
           </Typography>
 
           <Box sx={{ flexGrow: 1 }} />
